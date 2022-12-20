@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "묵시적 형 변환시 자료손실", "묵시적 형 변환시 자료손실.csproj", "{769FF507-E4EE-4CAF-9847-139FD183ADCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "두 double 형 수를 더하기", "..\두 double 형 수를 더하기\두 double 형 수를 더하기.csproj", "{14DDE64F-686C-40EB-B3CC-8065DE4A7E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "예제 코드", "..\예제 코드\예제 코드.csproj", "{2FFF7A06-A00B-43B1-881B-3211F95D1AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769FF507-E4EE-4CAF-9847-139FD183ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769FF507-E4EE-4CAF-9847-139FD183ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769FF507-E4EE-4CAF-9847-139FD183ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769FF507-E4EE-4CAF-9847-139FD183ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DDE64F-686C-40EB-B3CC-8065DE4A7E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DDE64F-686C-40EB-B3CC-8065DE4A7E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DDE64F-686C-40EB-B3CC-8065DE4A7E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DDE64F-686C-40EB-B3CC-8065DE4A7E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFF7A06-A00B-43B1-881B-3211F95D1AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFF7A06-A00B-43B1-881B-3211F95D1AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFF7A06-A00B-43B1-881B-3211F95D1AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFF7A06-A00B-43B1-881B-3211F95D1AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1875E7-91EB-4849-8B98-CBDECA5BD9DA}
+	EndGlobalSection
+EndGlobal
