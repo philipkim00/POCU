@@ -7,7 +7,7 @@
     <ProjectGuid>{933F6E3B-0579-4E6B-89B5-AACA1E836030}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>로그인_하기_while문_</RootNamespace>
-    <AssemblyName>로그인_하기_while문_</AssemblyName>
+    <AssemblyName>로그인 하기%28while문%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
