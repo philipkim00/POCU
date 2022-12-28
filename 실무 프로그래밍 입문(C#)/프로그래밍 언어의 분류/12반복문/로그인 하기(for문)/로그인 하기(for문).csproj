@@ -7,7 +7,7 @@
     <ProjectGuid>{68907010-65A7-4D7D-9063-16C3F242DE0E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>로그인_하기_for문_</RootNamespace>
-    <AssemblyName>로그인_하기_for문_</AssemblyName>
+    <AssemblyName>로그인 하기%28for문%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
