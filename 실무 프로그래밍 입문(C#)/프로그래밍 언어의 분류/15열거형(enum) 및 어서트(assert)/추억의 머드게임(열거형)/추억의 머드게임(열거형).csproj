@@ -7,7 +7,7 @@
     <ProjectGuid>{B9190537-6E4B-48F7-B857-2FDBAD111D94}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>추억의_머드게임_열거형_</RootNamespace>
-    <AssemblyName>추억의_머드게임_열거형_</AssemblyName>
+    <AssemblyName>추억의 머드게임%28열거형%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
